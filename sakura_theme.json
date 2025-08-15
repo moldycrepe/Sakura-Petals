@@ -1,0 +1,23 @@
+{
+  "Name": "Sakura Glow",
+  "Author": "Jess & Liora",
+  "Version": 1,
+  "Description": "Soft pink cherry blossom inspired theme with white text and gentle highlights.",
+  "Colors": {
+    "Background": "#2a1f2d",
+    "PanelBackground": "#3b293b",
+    "PanelBorder": "#ffb7c5",
+    "Text": "#ffffff",
+    "Accent": "#ff9bb2",
+    "AccentText": "#ffffff",
+    "Highlight": "#ffd1dc",
+    "Button": "#ffb7c5",
+    "ButtonHover": "#ffcce0",
+    "ButtonActive": "#ff9bb2",
+    "InputBackground": "#4a2f4a",
+    "InputText": "#ffffff",
+    "ScrollBar": "#ffb7c5",
+    "ScrollBarHover": "#ffcce0",
+    "LinkText": "#ff80aa"
+  }
+}
